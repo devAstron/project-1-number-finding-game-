@@ -11,7 +11,7 @@ You think the number, the computer finds, the computer thinks the number you fin
 ----------------------UZ-------------------------------------------
 
 
-Siz son o`ylang kompyuter topadi, kompyuter son o`ylaydi siz toping
+Siz son o'ylang kompyuter topadi, kompyuter son o'ylaydi siz toping
 
 
 ----------------------UZ-------------------------------------------
